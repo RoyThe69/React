@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoyThe69/React.git/static/css/main.073c9b0a.css",
+    "main.js": "/RoyThe69/React.git/static/js/main.bd68a84f.js",
+    "static/js/787.1c940241.chunk.js": "/RoyThe69/React.git/static/js/787.1c940241.chunk.js",
+    "static/media/logo.svg": "/RoyThe69/React.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RoyThe69/React.git/index.html",
+    "main.073c9b0a.css.map": "/RoyThe69/React.git/static/css/main.073c9b0a.css.map",
+    "main.bd68a84f.js.map": "/RoyThe69/React.git/static/js/main.bd68a84f.js.map",
+    "787.1c940241.chunk.js.map": "/RoyThe69/React.git/static/js/787.1c940241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bd68a84f.js"
+  ]
+}
